@@ -15,14 +15,9 @@ Passionate about Coding, Web Development & Emerging Tech
 - **Programming:** Python  
 - **Tools:** VS Code, Git, GitHub  
 
-## 📊 GitHub Stats
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar900aj&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar900aj&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/sagar900aj)  
+- LinkedIn: [sagar900aj](https://www.linkedin.com/sagar900aj/)  
 - Email: sagar900aj@gmail.com  
 
 ---
