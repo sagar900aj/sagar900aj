@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sagar Maity 👋
 
-<!--
-**sagar900aj/sagar900aj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer | Computer Science Student  
+Passionate about Coding, Web Development & Emerging Tech  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Learning
+- HTML, CSS, JavaScript  
+- Python & AI Basics  
+- Git, GitHub & Version Control  
+
+## 🌱 Skills
+- **Frontend:** HTML, CSS, JavaScript  
+- **Programming:** Python  
+- **Tools:** VS Code, Git, GitHub  
+
+## 📊 GitHub Stats
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar900aj&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar900aj&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/sagar900aj)  
+- Email: sagar900aj@gmail.com  
+
+---
+
+**Fun Fact:** Always excited to learn new technologies and collaborate on interesting projects 🚀
