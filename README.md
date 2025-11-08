@@ -35,7 +35,7 @@ Passionate about Coding, Web Development & Emerging Tech
 ![Sagar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagar900aj&theme=radical)
 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FF8C00&center=true&vCenter=true&width=480&lines=Eat()+Sleep()+Code();Repeat();But+Don't+Forget+to+Enjoy+Life!)](https://github.com/sagar900aj)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FF8C00&vCenter=true&width=480&lines=Eat()+Sleep()+Code();Repeat();But+Don't+Forget+to+Enjoy+Life!)](https://github.com/sagar900aj)
 
 ## 📫 Connect with Me
 - LinkedIn: [sagar900aj](https://in.linkedin.com/in/sagar900aj)
