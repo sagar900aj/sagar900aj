@@ -1,5 +1,8 @@
 # Hi, I'm Sagar Maity 👋
 
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=36BCF7&center=false&vCenter=true&lines=Java+Developer;Python+Learner;Frontend+Beginner;Future+Software+Engineer" />
+
+
 Aspiring Software Engineer | Computer Science Student  
 Passionate about Coding, Web Development & Emerging Tech  
 
@@ -47,4 +50,3 @@ Passionate about Coding, Web Development & Emerging Tech
 
 **Fun Fact:** Always excited to learn new technologies and collaborate on interesting projects 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=36BCF7&center=false&vCenter=true&lines=Java+Developer;Python+Learner;Frontend+Beginner;Future+Software+Engineer" />
