@@ -1,8 +1,7 @@
 # Hi, I'm Sagar Maity 👋
----
+
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=36BCF7&center=false&vCenter=true&lines=Java+Developer;Python+Learner;Frontend+Beginner;Future+Software+Engineer;Aspiring+Software+Engineer;Computer+Science+Student;Passionate+about+Coding;Web+Development+&+Emerging+Tech" />  
 
----
 ## 💻 Languages & Skills  
 
 ### ✅ Completed
@@ -24,7 +23,6 @@
 - **Programming:** Python  
 - **Tools:** VS Code, Git, GitHub  
 
----
 
 ## 📊 GitHub Stats
 ![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar900aj&show_icons=true&theme=radical)
@@ -35,7 +33,7 @@
 ## 📈 Activity Graph
 ![Sagar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sagar900aj&theme=radical)
 
----
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FF8C00&vCenter=true&width=480&lines=Eat()+Sleep()+Code();Repeat();But+Don't+Forget+to+Enjoy+Life!)](https://github.com/sagar900aj)
 
 ## 📫 Connect with Me
