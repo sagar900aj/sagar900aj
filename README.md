@@ -19,6 +19,7 @@ Passionate about Coding, Web Development & Emerging Tech
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="25"/>
 </p>
+
 ## 🌱 Skill
 - **Frontend:** HTML, CSS, JavaScript  
 - **Programming:** Python  
