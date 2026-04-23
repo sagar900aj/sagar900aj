@@ -24,7 +24,7 @@
 - **Programming:** Python  
 - **Tools:** VS Code, Git, GitHub  
 
-
+---
 ## 📊 GitHub Stats
 ![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar900aj&show_icons=true&theme=radical)
 
@@ -37,6 +37,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=FF8C00&vCenter=true&width=480&lines=Eat()+Sleep()+Code();Repeat();But+Don't+Forget+to+Enjoy+Life!)](https://github.com/sagar900aj)
 
+---
 ## 📫 Connect with Me
 - LinkedIn: [sagar900aj](https://in.linkedin.com/in/sagar900aj)
 - Email: sagar900aj@gmail.com  
